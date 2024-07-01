@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Welcome to the Git Demo Repository! This repository is designed as a hands-on learning tool for understanding the basics of Git, a distributed version control system. Let's get started on your journey to mastering Git!
+Welcome to the Git Demo Repository! This repository is designed as a demo repo used in https://github.com/sait-lab/learn-git. Let's get started on your journey to mastering Git!
 
 ## Getting Started
 

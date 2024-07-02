@@ -23,6 +23,7 @@ instance/
 
 # macOS system files
 .DS_Store
+._.DS_Store
 
 # Windows system files
 Thumbs.db

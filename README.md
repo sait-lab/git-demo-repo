@@ -8,12 +8,16 @@ Welcome to the Git Demo Repository! This repository is designed as a demo repo u
 
 To get started with this repository, follow these steps:
 
-1. **Create a fork of this repository**. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+1. **Create a fork of this repository**. [Fork a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
 2. **Clone the Repository**: 
 
     ```sh
-    git clone git://github.com/[YOUR_GITHUB_USERNAME]/git-demo-repo.git
+    git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git
+    
+    # Or
+    
+    git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git <DIFFERENT_FOLDER>
     ```
 
 3. **Navigate to the Repository**:

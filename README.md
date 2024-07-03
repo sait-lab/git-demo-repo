@@ -16,15 +16,17 @@ To get started with this repository, follow these steps:
     # This command clones the repo to default git-demo-repo folder
     git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git
     
-    # Or
-    
-    git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git <DIFFERENT_FOLDER>
+    # Or clones to a specified folder
+    git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git <SPECIFIED_FOLDER>
     ```
-
+    
 3. **Navigate to the Repository**:
 
     ```sh
     cd git-demo-repo
+    
+    # Or
+    cd <SPECIFIED_FOLDER>
     ```
 
 4. **Make Your First Commit**:

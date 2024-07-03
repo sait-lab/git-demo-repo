@@ -10,9 +10,10 @@ To get started with this repository, follow these steps:
 
 1. **Create a fork of this repository**. [Fork a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
-2. **Clone the Repository**: 
+2. **Clone from Your Forked Repository**: 
 
     ```sh
+    # This command clones the repo to default git-demo-repo folder
     git clone git://github.com/YOUR_GITHUB_USERNAME/git-demo-repo.git
     
     # Or

@@ -51,6 +51,6 @@ To get started with this repository, follow these steps:
 
 - [Official Git Documentation](https://git-scm.com/doc)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
-- [GitHub Learning Lab](https://lab.github.com/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- [GitHub Skills](https://skills.github.com/)
 
